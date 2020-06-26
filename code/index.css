@@ -1,0 +1,9 @@
+div#logo-homepage{
+    width: 375px;
+    height:110px;
+    background-repeat:no-repeat;
+}
+
+h1{
+    color:blue;
+}
