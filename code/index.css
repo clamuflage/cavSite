@@ -4,13 +4,13 @@ div#logo-homepage{
     background-repeat:no-repeat;
 }
 
-label
-    
+label{
+    padding: 20px;
 }
 
 .box{
-   width: 15%;
-   height: 100px;
+   width: 40%;
+   height: 150px;
    background-color: rgb(228, 228, 228);
    margin: 130px;
    border-radius: 10px;
@@ -25,4 +25,14 @@ input{
 
 h1{
     color:blue;
+}
+
+.design{
+   width: 375px;
+   height: 100px;
+   background-color: rgb(252, 123, 2);
+   margin: 130px;
+   border-radius: 10px;
+   margin-top: 100px;
+   padding: 20px;
 }
