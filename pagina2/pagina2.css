@@ -1,0 +1,30 @@
+body{
+    height: 812px;
+    width: 375px;
+}
+
+div#frase-interativa{
+    height:3%;
+    width: auto;
+}
+
+img#sala1{
+    margin-top: 5%;
+    margin-left:-10px;
+    margin-right:-10px;
+    opacity: 80%;
+}
+
+div#texto0sala1{
+    height: 30%;
+    width: auto;
+}
+
+button#botao-proxima {
+    border: none; 
+    margin-left: 200px;
+    background-color: rgb(58, 250, 0); 
+    padding: 14px 28px;
+    cursor: pointer; 
+  }
+  
