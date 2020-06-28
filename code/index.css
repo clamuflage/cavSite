@@ -1,0 +1,38 @@
+div#logo-homepage{
+    width: 375px;
+    height:110px;
+    background-repeat:no-repeat;
+}
+
+label{
+    padding: 20px;
+}
+
+.box{
+   width: 40%;
+   height: 150px;
+   background-color: rgb(228, 228, 228);
+   margin: 130px;
+   border-radius: 10px;
+   margin-top: 100px;
+   padding: 20px;
+}
+
+input{
+    outline: auto;
+    border: 1px solid rgb(228, 228, 228);
+}
+
+h1{
+    color:blue;
+}
+
+.design{
+   width: 375px;
+   height: 100px;
+   background-color: rgb(252, 123, 2);
+   margin: 130px;
+   border-radius: 10px;
+   margin-top: 100px;
+   padding: 20px;
+}
