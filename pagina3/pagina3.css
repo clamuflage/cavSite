@@ -1,6 +1,6 @@
 body{
     background-image: url(../artes/background.png);
-    background-repeat: no-repeat;
+    background-size: auto;
     height:auto;
     width: auto;
 }
@@ -12,16 +12,16 @@ div#frase-interativa{
     width: auto;
 }
 
-img#sala1{
-    margin-top: 5%;
+div#foto-da-sala3{
+    margin-top: 5px;
     margin-left:-10px;
     margin-right:-10px;
     opacity: 80%;
 }
 
-div#texto-sala1{
+div#texto-sala3{
     font-family:sans-serif;
-    font-size: 14pt
+    font-size: 15pt
 }
 
 button#botao-proxima {
@@ -35,7 +35,7 @@ button#botao-proxima {
     margin-top: 15%;
     outline: none;
 }
-.titulo-texto-ingles{
+.titulo-texto-educativos{
       font-size: 20pt;
       font-family:Verdana ;
 }
